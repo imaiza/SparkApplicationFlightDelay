@@ -1,4 +1,4 @@
-# Spark_Application_FlightDelay:
+# Spark application to predict flight delay:
 
 In this project I use the python API for Spark, PySpark, to create an application that given a certain year’s flights dataset from 
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7, trains the selected algorithm by the user and created a model capable of successfully predicting the arrival delay of the flights.
